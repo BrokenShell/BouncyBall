@@ -1,11 +1,21 @@
 # Bouncy Ball
 
 ### Create Virtual Environment
-- `python venv venv`
-- `source venv/bin/activate`
+```shell
+python -m venv venv
+```
+
+### Activate Virtual Environment
+```shell
+source venv/bin/activate
+```
 
 ### Install Dependencies
-- `./install.sh`
+```shell
+./install.sh
+```
 
 ### Run Script
-- `./run.sh`
+```shell
+./run.sh
+```
